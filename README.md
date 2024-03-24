@@ -12,6 +12,7 @@ Module 20 challenge - An updated portfolio showcasing my full stack dev projects
 
 ### Live Site
 https://github.com/johnlott1/challenge-20
+https://johnlott1.github.io/challenge-20
 
 
 ### Preview 
